@@ -12,7 +12,7 @@ public class bancao {
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
 		banco banco;
-		
+		System.out.println("BOM DIA ");
 		System.out.print("Enter account number: ");
 		int number = sc.nextInt();
 		System.out.print("Enter account holder: ");
